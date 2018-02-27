@@ -43,18 +43,5 @@ sparse_medium.txt
 large_input.txt
 
 
-## Output:
-
-The solution path to a maze will be stdout to the console.
-
-The solution path for input.txt will look like the following:
-
-The Solution for the Maze is marked by the Path 'X' below: 
-
-#####
-#S# #
-#X# #
-#XXE#
-#####
 
 
